@@ -57,6 +57,9 @@ Yapay zekâ modellerini kullanılabilir uygulamalara dönüştürmeye; web, mobi
 
 ## 📬 İletişim
 
-Projelerimi ve geliştirme çalışmalarımı bu profilde paylaşıyorum. Projelerle ilgili sorular, hata bildirimleri ve geliştirme önerileri için ilgili repodaki **Issues** bölümünden ulaşabilirsiniz.
+- **LinkedIn:** [Berkay Özdemir](https://www.linkedin.com/in/berkay-%C3%B6zdemir-7332b2248/)
+- **E-posta:** [berkay.oz3321@gmail.com](mailto:berkay.oz3321@gmail.com)
+
+Projelerle ilgili hata bildirimleri ve geliştirme önerileri için ilgili repodaki **Issues** bölümünü de kullanabilirsiniz.
 
 [Tüm açık kaynak projelerim →](https://github.com/berkayozdmr21?tab=repositories)
