@@ -10,16 +10,31 @@ Yapay zekâ modellerini kullanılabilir uygulamalara dönüştürmeye; web, mobi
 
 ---
 
-## 🛠️ Teknolojiler
+## 🛠️ Yeteneklerim
 
-| Alan | Kullandığım teknolojiler |
-| --- | --- |
-| Yapay zekâ & veri | Python, PyTorch, OpenCV, YOLOv8, EasyOCR |
-| Web & backend | React, TypeScript, JavaScript, FastAPI, ASP.NET, Laravel |
-| Mobil | Flutter, Dart |
-| Veritabanı & otomasyon | SQL, PostgreSQL, Temporal, REST API |
-| Oyun, XR & tasarım | Unity, C#, Blender, Figma |
-| Geliştirme araçları | Git, GitHub, Vite, Google Colab |
+<p>
+  <img src="./assets/skills/py.svg" alt="Python" title="Python" width="36" height="36" />
+  <img src="./assets/skills/pytorch.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
+  <img src="./assets/skills/opencv.svg" alt="OpenCV" title="OpenCV" width="36" height="36" />
+  <img src="./assets/skills/react.svg" alt="React" title="React" width="36" height="36" />
+  <img src="./assets/skills/ts.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+  <img src="./assets/skills/js.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+  <img src="./assets/skills/fastapi.svg" alt="FastAPI" title="FastAPI" width="36" height="36" />
+  <img src="./assets/skills/dotnet.svg" alt="ASP.NET" title="ASP.NET" width="36" height="36" />
+  <img src="./assets/skills/laravel.svg" alt="Laravel" title="Laravel" width="36" height="36" />
+  <img src="./assets/skills/flutter.svg" alt="Flutter" title="Flutter" width="36" height="36" />
+  <img src="./assets/skills/dart.svg" alt="Dart" title="Dart" width="36" height="36" />
+  <img src="./assets/skills/postgres.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
+  <img src="./assets/skills/unity.svg" alt="Unity" title="Unity" width="36" height="36" />
+  <img src="./assets/skills/cs.svg" alt="C#" title="C#" width="36" height="36" />
+  <img src="./assets/skills/blender.svg" alt="Blender" title="Blender" width="36" height="36" />
+  <img src="./assets/skills/figma.svg" alt="Figma" title="Figma" width="36" height="36" />
+  <img src="./assets/skills/git.svg" alt="Git" title="Git" width="36" height="36" />
+  <img src="./assets/skills/github.svg" alt="GitHub" title="GitHub" width="36" height="36" />
+  <img src="./assets/skills/vite.svg" alt="Vite" title="Vite" width="36" height="36" />
+</p>
+
+<sub>YOLOv8 · EasyOCR · SQL · Temporal · REST API · Google Colab</sub>
 
 ## 🚀 Öne çıkan projeler
 
