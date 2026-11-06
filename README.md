@@ -60,7 +60,7 @@ Yapay zekâ modellerini kullanılabilir uygulamalara dönüştürmeye; web, mobi
 
 | Kurum | Görev & çalışmalar | Dönem |
 | --- | --- | --- |
-| **Eterna Teknoloji** | Yazılım geliştirme; görüntü işleme, bot tespiti, yapay zekâ destekli ses işleme ve Laravel uygulamaları. | Haziran–Ekim 2026 |
+| **Eterna Teknoloji** | Yazılım geliştirme; görüntü işleme, bot tespiti, yapay zekâ destekli ses işleme ve Laravel uygulamaları. | Haziran–Devam Ediyor 2026 |
 | **Software Persona** | Yazılım stajı; React ve Flutter arayüzleri, Figma tasarımları ve ASP.NET API entegrasyonları. | Mart–Nisan 2026 |
 | **İSTE-XR2 Lab** | Proje geliştirici; Unity ile VR tabanlı dijital ikiz ve XR çalışmaları. | Nisan–Temmuz 2025 |
 | **COMPORT Yazılım ve Sanayi Ticaret A.Ş.** | Yazılım stajı; kurumsal geliştirme süreçleri ve takım çalışması. | Temmuz 2024 |
