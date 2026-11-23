@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/de0bca42-81c7-4499-8caa-199ecbb97840" width="250" alt="Profil görseli" />
 </p>
+
 # Merhaba, ben Berkay Özdemir 👋
 
 **Bilgisayar Mühendisi · Yapay Zekâ & Yazılım Geliştirici**
