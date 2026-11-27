@@ -40,6 +40,17 @@ Yapay zekâ modellerini kullanılabilir uygulamalara dönüştürmeye; web, mobi
 
 <sub>YOLOv8 · EasyOCR · SQL · Temporal · REST API · Google Colab</sub>
 
+<p>
+  <img src="./assets/animation/technology-in-motion.gif" width="1000" alt="Teknolojilerim hareket halinde: regresyon, nesne tespiti ve OCR, web arayüzü, backend mimarisi, veri ve iş akışı, mobil uygulama, oyun ve 3D, Git dalları. Sekiz sahne yumuşak geçişlerle döngü halinde oynar." />
+</p>
+
+<details>
+  <summary>Animasyonun durağan özeti · 8 çalışma alanı</summary>
+  <br />
+  <img src="./assets/animation/technology-overview.png" width="1000" alt="Yapay zekâ, bilgisayarlı görü, web, backend, veri ve iş akışı, mobil, oyun ve 3D ile sürüm kontrolünü gösteren sekiz sahnenin durağan özeti." />
+</details>
+
+
 ## 🚀 Öne çıkan projeler
 
 | Proje | Ne yapıyor? | Teknolojiler |
